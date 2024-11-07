@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Toonz-bit
-- 👀 I’m a Junior Data Analyst passionate about uncovering insights from data.
-- 🌱 I’m currently learning Power BI, SQL, and Python to enhance my data analytics skills.
+- 👋 Hi, I’m Olatunde Obaoye
+- 👀 I’m a Data Analyst passionate about uncovering insights from data.
+- 🌱 I’m currently in an internship looking at helping business uncover insights from their data to make better decisions.
 - 💞️ I’m looking to collaborate on data-driven projects that involve business intelligence, dashboards, and reporting.
 - 📫 How to reach me at obatoonz@gmail.com/
 - 😄 Pronouns: He/Him
